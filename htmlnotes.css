@@ -1,0 +1,23 @@
+*{
+  background-color: white;
+  margin-top: 0;
+  list-style: none;
+}
+.menu li a {
+  color: red;
+  font-size: 23px;
+  font-weight: bold;
+  padding-left: 10px;
+  text-decoration: none;
+
+  
+}
+.sub-menu li a {
+ color: black;
+ font-size: 18px;
+ text-decoration: none;
+ list-style: none;
+}
+.menu{
+  text-decoration: none;
+}

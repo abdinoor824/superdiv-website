@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.h1 {
+  color: red;
+  font-size: 28px;
+  font-family: Arial;
+  font-weight: bold;
+}
+.text{
+  color: black;
+  font-size: 21px;
+  font-family: Arial;
+}

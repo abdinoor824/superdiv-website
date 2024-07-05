@@ -1,0 +1,39 @@
+ *{
+  padding: 0px;
+  margin: 0px;
+  margin-left: 10px;
+ }
+ .menu-content {
+  background-color: antiquewhite;
+ }
+ .menu ul {
+  background-color: aqua;
+  text-align: ;
+  display: relative;
+  list-style: none;
+ }
+ .menu li {
+  display:inline-block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+ }
+ .menu li:a {
+  display: none;
+  text-decoration: none;
+  position: center;
+  padding: 21;
+ }
+ .sub-menu ul {
+  display: none;
+ }
+ .sub-menu li {
+  display: block;
+  
+  
+ } 
+  .menu li :hover.sub-menu ul {
+  display: block;
+  position: absolute;
+  background-color: blue;
+ }
+ 

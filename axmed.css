@@ -1,0 +1,22 @@
+*{
+  padding: 0%;
+  margin: 0cap;
+}
+.menu ul{
+  display: flex;
+  padding: 5px;
+  justify-content: space-around;
+
+
+}.menu li a {
+  display: flex;
+  justify-self: center;
+  border-color: black;
+  text-justify: none;
+  text-justify: unset;
+}
+.menu ul a{
+  text-align: center;
+  border-bottom: 0ch;
+  border-color: black;
+}
